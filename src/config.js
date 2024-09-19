@@ -1,5 +1,5 @@
-module.exports = {
+export default {
 	prefix: '!',
 	owner: 'Bot Sahip ID',
-	token: 'Bot Tokeni',
+	token: 'BOT Tokeni',
 };
