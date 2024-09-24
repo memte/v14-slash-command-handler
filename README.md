@@ -1,4 +1,4 @@
-# V13 Slash Command Handler
+Example Discord Bot - V13 ES6
 
 - **Project built on `discord.js` v13.**
 - **Minimum required Node.js version: v16.6.**
