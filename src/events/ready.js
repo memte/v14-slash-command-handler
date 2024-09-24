@@ -11,7 +11,7 @@ export default {
 			activities: [{name: 'Developed by memte.', type: 'LISTENING'}],
 		});
 
-		client.log(`${client.user.username} Aktif Edildi!`);
+		client.log(`${client.user.username} Active!`);
 		//
 		try {
 			await rest.put(
